@@ -9,11 +9,11 @@ I am a results-oriented developer specializing in architecting **scalable Micros
 
 | Category | Skills |
 | :--- | :--- |
-| **Languages** | Java 17, Python 3.10, SQL (PostgreSQL, MySQL), Cypher |
+| **Languages** | Java , Python , SQL (PostgreSQL, MySQL), Cypher |
 | **Backend & Frameworks** | Spring Boot, Spring Cloud, FastAPI, Hibernate, JUnit, Pytest |
 | **Generative AI** | LangChain, LangGraph, RAG Pipelines, Hugging Face, CrewAI, Vector Stores (FAISS, ChromaDB) |
 | **Data Engineering** | PySpark, Databricks Delta Lake, Apache Kafka, ETL Pipelines |
-| **Cloud & DevOps** | AWS (EC2, S3, RDS), Docker, Kubernetes, GitHub Actions |
+| **Cloud & DevOps** | AWS (EC2, S3, RDS), Docker, Kubernetes |
 
 ---
 
