@@ -35,8 +35,8 @@ I am a results-oriented developer specializing in architecting **scalable Micros
 ---
 
 ### 📊 GitHub Stats
-![Niyaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Niyaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=niyazasghar&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niyazasghar&layout=compact&theme=radical)
 
 ---
 
