@@ -41,9 +41,9 @@ I am a results-oriented developer specializing in architecting **scalable Micros
 ---
 
 ### 📫 Let's Connect!
-- **LinkedIn**: [linkedin.com/in/your-profile](https://www.linkedin.com/in/niyaz-asghar-aa02b2248/)
+- **LinkedIn**: [linkedin.com/in/niyaz-asghar](https://www.linkedin.com/in/niyaz-asghar-aa02b2248/)
 - **Portfolio**: [https://niyaz-asghar-portfolio.netlify.app/] 
 - **Email**: [niyaz.asghar22b@iiitg.ac.in](mailto:niyaz.asghar22b@iiitg.ac.in)
-- **LeetCode**: [leetcode.com/u/your-id](https://leetcode.com/u/Md_Niyaz_Asghar/)
+- **LeetCode**: [leetcode.com/u/niyaz-asghar](https://leetcode.com/u/Md_Niyaz_Asghar/)
 
 *"Building robust systems today for a more intelligent tomorrow."*
